@@ -1,1 +1,7 @@
 las comidas
+
+ahora voy a añadir platos:
+
+arroz con tomate
+macarrones
+ensalada
